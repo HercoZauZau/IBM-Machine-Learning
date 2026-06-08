@@ -1,8 +1,14 @@
 # IBM Machine Learning Engineering
 
-Repositório com os projectos desenvolvidos ao longo do curso [**IBM Machine Learning Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-machine-learning).
+<img src="assets/coursera.png">
 
-O objectivo deste repositório é documentar a evolução prática em **Data Science**, **Machine Learning**, **Análise Exploratória de Dados**, **Modelagem Preditiva** e **MLOps**.
+</br>
+
+Repositório que reúne os projectos desenvolvidos ao longo do curso [**IBM Machine Learning Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/ibm-machine-learning).
+
+Os projectos abrangem diferentes problemas de investigação, incluindo análise económica, previsão, classificação, sistemas de recomendação e aprendizagem por reforço, seguindo boas práticas de preparação de dados, desenvolvimento de modelos e avaliação de desempenho.
+
+**Nota:** Em todos os projectos deste repositório foram usados **apenas dados de Moçambique**, com o objectivo de desenvolver soluções e análises contextualizadas à realidade nacional. Grande parte dos datasets utilizados foi obtida através do projecto [**Kutiva**](https://github.com/HercoZauZau/Kutiva), complementados por outras fontes públicas.
 
 ---
 
@@ -30,29 +36,23 @@ O objectivo deste repositório é documentar a evolução prática em **Data Sci
 
 ---
 
-## ✅ Projectos Concluídos
+#### #1 - Impacto da Variação dos Preços dos Combustíveis no Preço de Alimentos em Moçambique 🌽 ⛽
 
-### Projecto I - Impacto da Variação dos Preços dos Combustíveis no Preço de Alimentos em Moçambique 🌽 ⛽
+**Objectivos:**
 
-O projecto teve como objectivo analisar o impacto da variação dos preços dos combustíveis no preço dos alimentos em Moçambique, utilizando o milho como principal caso de estudo.
+* Analisar a relação entre os preços dos combustíveis e do milho.
+* Identificar tendências, sazonalidade e padrões temporais.
 
-Inicialmente foi realizada a recolha, limpeza e transformação dos dados de preços dos combustíveis e do milho, organizados por ano, mês e província. Em seguida, foi conduzida uma Análise Exploratória de Dados (EDA) para compreender o comportamento das variáveis ao longo do tempo.
+**Técnicas Utilizadas:**
 
-Durante a análise foram explorados:
+* Recolha, limpeza e transformação de dados.
+* Análise Exploratória de Dados (EDA).
+* Testes e avaliação de hipóteses estatísticas.
 
-* Tendências temporais dos preços;
-* Evolução anual e mensal dos preços do milho;
-* Relação entre aumentos dos combustíveis e oscilações no preço dos alimentos;
-* Correlação estatística entre variáveis;
-* Identificação de períodos de maior volatilidade;
-* Análise de sazonalidade e padrões de comportamento;
-* Formulação e avaliação de hipóteses estatísticas.
+**Conclusão:**
 
-Também foram utilizados gráficos e métricas estatísticas para visualizar padrões, detectar anomalias e compreender melhor os efeitos económicos associados ao aumento dos custos de transporte e distribuição.
-
-#### Conclusão
-
-Os resultados obtidos indicam que existe uma relação relevante entre a variação dos preços dos combustíveis e o comportamento do preço do milho em Moçambique. 
-A análise mostrou ainda que os efeitos não ocorrem de forma totalmente imediata ou uniforme, podendo variar conforme o período, a província e outros factores económicos externos. Mesmo assim, foram identificadas evidências quantitativas que sugerem que o aumento dos custos de combustível influencia os custos logísticos e, consequentemente, os preços dos alimentos.
+* Foi identificada uma relação relevante entre os preços dos combustíveis e do milho.
+* O impacto não ocorre de forma imediata nem uniforme em todas as províncias.
+* Os custos logísticos contribuem para o aumento dos preços dos alimentos.
 
 ---
