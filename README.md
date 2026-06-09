@@ -56,7 +56,6 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 * Os custos logísticos contribuem para o aumento dos preços dos alimentos.
 
 </br>
-</br>
 
 #### #2 - Detecção de Mudanças no Regime Climático Distrital em Moçambique 🌧️ 🌍
 
