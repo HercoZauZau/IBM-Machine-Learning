@@ -16,7 +16,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 
 * [x] **Projecto #1** - Análise Exploratória de Dados
 * [x] **Projecto #2** - Machine Learning Supervisionado (Regressão)
-* [ ] **Projecto #3** - Machine Learning Supervisionado (Classificação)
+* [x] **Projecto #3** - Machine Learning Supervisionado (Classificação)
 * [ ] **Projecto #4** - Machine Learning Não Supervisionado
 * [ ] **Projecto #5** - Deep Learning e Aprendizado por Reforço
 * [ ] **Projecto #6** - Sistemas de Recomendação
@@ -25,7 +25,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 
 * [ ] **Artigo #1** - Impacto da Variação dos Preços dos Combustíveis no Preço de Alimentos em Moçambique
 * [ ] **Artigo #2** - Análise de Mudanças no Regime Climático Distrital em Moçambique
-* [ ] **Artigo #3** - *por definir*
+* [ ] **Artigo #3** - Classificação Automática de Notícias Moçambicanas
 * [ ] **Artigo #4** - *por definir*
 * [ ] **Artigo #5** - *por definir*
 * [ ] **Artigo #6** - *por definir*
@@ -79,5 +79,29 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 * Não foram encontradas evidências de mudanças significativas no regime pluviométrico nacional quando analisado de forma agregada.
 * Foram identificadas pequenas mudanças de regime climático localizadas nos distritos de Ibo, Palma e Mossurize.
 * Os resultados mostram que as alterações climáticas relacionadas à precipitação ocorrem de forma heterogénea, afectando algumas regiões mais do que outras.
+
+</br>
+
+#### #3 - Classificação Automática de Notícias de Moçambique 📰 🤖
+
+**Objectivos:**
+
+* Desenvolver um modelo capaz de classificar automaticamente notícias moçambicanas por categoria.
+* Reduzir o esforço manual na organização e indexação de conteúdos jornalísticos.
+* Avaliar o desempenho de diferentes algoritmos de Machine Learning na tarefa de classificação de texto.
+* Identificar a abordagem mais adequada para aplicações de categorização automática de notícias em língua portuguesa.
+
+**Técnicas Utilizadas:**
+
+* Recolha, limpeza e pré-processamento de dados textuais.
+* Normalização e tratamento de textos.
+* Transformação textual utilizando **TF-IDF (Term Frequency–Inverse Document Frequency)**.
+* Análise Exploratória de Dados (EDA).
+* Treino e avaliação de modelos de classificação supervisionada.
+
+**Conclusão:**
+
+* Os modelos de Machine Learning demonstraram capacidade para classificar automaticamente notícias moçambicanas com elevado nível de precisão.
+* A representação textual baseada em **TF-IDF** mostrou-se eficaz na captura dos termos mais relevantes para distinguir diferentes categorias de notícias.
 
 ---
