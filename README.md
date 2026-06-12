@@ -36,7 +36,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 
 ---
 
-#### #1 - Impacto da Variação dos Preços dos Combustíveis no Preço de Alimentos em Moçambique 🌽 ⛽
+### #1 - Impacto da Variação dos Preços dos Combustíveis no Preço de Alimentos em Moçambique 🌽 ⛽
 
 **Objectivos:**
 
@@ -57,7 +57,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 
 </br>
 
-#### #2 - Detecção de Mudanças no Regime Climático Distrital em Moçambique 🌧️ 🌍
+### #2 - Detecção de Mudanças no Regime Climático Distrital em Moçambique 🌧️ 🌍
 
 **Objectivos:**
 
@@ -82,7 +82,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 
 </br>
 
-#### #3 - Classificação Automática de Notícias de Moçambique 📰 🤖
+### #3 - Classificação Automática de Notícias de Moçambique 📰 🤖
 
 **Objectivos:**
 
