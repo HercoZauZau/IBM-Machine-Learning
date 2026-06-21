@@ -19,7 +19,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 * [x] **Projecto #3** - Machine Learning Supervisionado (Classificação)
 * [ ] **Projecto #4** - Machine Learning Não Supervisionado
 * [ ] **Projecto #5** - Deep Learning e Aprendizado por Reforço
-* [ ] **Projecto #6** - Sistemas de Recomendação
+* [x] **Projecto #6** - Sistemas de Recomendação
 
 </br>
 
@@ -28,7 +28,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 * [ ] **Artigo #3** - Classificação Automática de Notícias Moçambicanas
 * [ ] **Artigo #4** - *por definir*
 * [ ] **Artigo #5** - *por definir*
-* [ ] **Artigo #6** - *por definir*
+* [ ] **Artigo #6** - Sistema de Recomendação de Imóveis para a Cidade de Maputo
 
 </br>
 
@@ -103,5 +103,35 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 
 * Os modelos de Machine Learning demonstraram capacidade para classificar automaticamente notícias moçambicanas com elevado nível de precisão.
 * A representação textual baseada em **TF-IDF** mostrou-se eficaz na captura dos termos mais relevantes para distinguir diferentes categorias de notícias.
+
+</br>
+
+### #6 - Sistema de Recomendação de Imóveis para a Cidade de Maputo 🏠 📍
+
+**Objectivos:**
+
+* Desenvolver um sistema capaz de recomendar imóveis semelhantes com base nas suas características.
+* Facilitar a procura de imóveis relevantes para potenciais compradores e arrendatários.
+* Explorar técnicas de agrupamento e recomendação aplicadas ao mercado imobiliário.
+* Comparar diferentes abordagens de recomendação para identificar a solução mais adequada.
+
+**Técnicas Utilizadas:**
+
+* Recolha, limpeza e preparação de dados imobiliários.
+* Análise Exploratória de Dados (EDA).
+* Engenharia de atributos (*Feature Engineering*).
+* Normalização e codificação de variáveis categóricas.
+* Processamento de texto utilizando **TF-IDF (Term Frequency–Inverse Document Frequency)**.
+* Agrupamento de imóveis utilizando **K-Means Clustering**.
+* Identificação de imóveis semelhantes através de **Nearest Neighbors**.
+* Sistema de recomendação baseado em conteúdo (**Content-Based Filtering**).
+* Avaliação através de métricas como Precision@K, Recall@K, F1-Score, nDCG e Cobertura.
+
+**Conclusão:**
+
+* O sistema demonstrou capacidade para recomendar imóveis com características semelhantes aos imóveis de referência.
+* A utilização conjunta de atributos estruturados e descrições textuais permitiu capturar melhor as características dos imóveis.
+* O modelo baseado em conteúdo apresentou resultados superiores ao baseline aleatório, produzindo recomendações mais relevantes.
+* Os resultados demonstram o potencial dos sistemas de recomendação como ferramenta de apoio à procura de imóveis no contexto do mercado imobiliário moçambicano.
 
 ---
