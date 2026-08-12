@@ -18,7 +18,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 * [x] **Projecto #2** - Machine Learning Supervisionado (Regressão)
 * [x] **Projecto #3** - Machine Learning Supervisionado (Classificação)
 * [x] **Projecto #4** - Machine Learning Não Supervisionado
-* [ ] **Projecto #5** - Deep Learning e Aprendizado por Reforço
+* [x] **Projecto #5** - Deep Learning e Aprendizado por Reforço
 * [x] **Projecto #6** - Sistemas de Recomendação
 
 </br>
@@ -27,7 +27,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 * [ ] **Artigo #2** - Análise de Mudanças no Regime Climático Distrital em Moçambique
 * [ ] **Artigo #3** - Classificação Automática de Notícias Moçambicanas
 * [ ] **Artigo #4** - Análise e Segmentação da Qualidade de Vida Distrital em Moçambique
-* [ ] **Artigo #5** - *por definir*
+* [ ] **Artigo #5** - Agente Inteligente para Ntxuva
 * [ ] **Artigo #6** - Sistema de Recomendação de Imóveis para a Cidade de Maputo
 
 </br>
@@ -37,6 +37,8 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 ---
 
 ### #1 - Impacto da Variação dos Preços dos Combustíveis no Preço de Alimentos em Moçambique 🌽 ⛽
+
+<img src='assets/capa.png'>
 
 **Objectivos:**
 
@@ -58,6 +60,8 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 </br>
 
 ### #2 - Detecção de Mudanças no Regime Climático Distrital em Moçambique 🌧️ 🌍
+
+<img src='assets/capa ii.png'>
 
 **Objectivos:**
 
@@ -84,6 +88,8 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 
 ### #3 - Classificação Automática de Notícias de Moçambique 📰 🤖
 
+<img src='assets/capa iii.png'>
+
 **Objectivos:**
 
 * Desenvolver um modelo capaz de classificar automaticamente notícias moçambicanas por categoria.
@@ -107,6 +113,8 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 </br>
 
 ### #4 - Segmentação da Qualidade de Vida Distrital em Moçambique 🏘️ 📊
+
+<img src='assets/capa iv.png'>
 
 **Objectivos:**
 
@@ -136,7 +144,43 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 
 <br/>
 
+### #5 - Agente de Aprendizado por Reforço para Ntxuva Moçambicano 🎮 🤖
+
+<img src='assets/capa v.png'>
+
+**Objectivos:**
+
+* Desenvolver um agente inteligente capaz de aprender a jogar **Ntxuva**.
+* Modelar computacionalmente as regras, estados, acções e condições de vitória do jogo.
+* Aplicar técnicas de **Aprendizado por Reforço** para permitir que o agente desenvolva estratégias através da experiência e *self-play*.
+* Comparar o desempenho do agente treinado com agentes de referência, incluindo estratégias aleatórias e **MiniMax**.
+* Desenvolver uma interface gráfica que permita jogar Ntxuva directamente contra os agentes.
+
+**Técnicas Utilizadas:**
+
+* Modelação computacional do Ntxuva como um ambiente de decisões sequenciais.
+* Desenvolvimento de agentes **Random** e **MiniMax com Alpha-Beta Pruning** como baselines.
+* Implementação de **Q-Learning** como abordagem introdutória de Aprendizado por Reforço.
+* Desenvolvimento de um agente utilizando **Deep Q-Network (DQN)** com PyTorch.
+* Treino através de **Self-Play**.
+* Utilização de **Experience Replay**, **Target Network** e estratégia **Epsilon-Greedy**.
+* Implementação de **Action Masking** para restringir o agente às jogadas válidas.
+* Avaliação através de taxas de vitória, derrota e empate contra diferentes adversários.
+* Desenvolvimento de uma interface gráfica interactiva utilizando **Tkinter**.
+* Implementação de testes automatizados para validação do motor, regras e agentes.
+
+**Conclusão:**
+
+* Foi desenvolvido um sistema completo capaz de representar computacionalmente o Ntxuva moçambicano e permitir partidas entre humanos e diferentes agentes artificiais.
+* O agente DQN demonstrou capacidade de aprender estratégias através da experiência e do *self-play*, apresentando desempenho superior ao agente aleatório após o treino inicial.
+* A comparação com o MiniMax demonstrou que o agente de Aprendizado por Reforço ainda possui margem significativa para evolução, permitindo avaliar objectivamente o progresso durante novos ciclos de treino.
+
+
+<br/>
+
 ### #6 - Sistema de Recomendação de Imóveis para a Cidade de Maputo 🏠 📍
+
+<img src='assets/capa vi.png'>
 
 **Objectivos:**
 
