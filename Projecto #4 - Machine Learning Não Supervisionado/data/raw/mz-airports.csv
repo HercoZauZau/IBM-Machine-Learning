@@ -1,0 +1,104 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,icao_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+"#meta +id","#meta +code","#loc +airport +type","#loc +airport +name","#geo +lat","#geo +lon","#geo +elevation +ft","#region +continent +code","#country +name","#country +code +iso2","#adm1 +name","#adm1 +code +iso","#adm1 +code +local","#loc +municipality +name","#status +scheduled","#loc +airport +code +gps","#loc +airport +code +icao","#loc +airport +code +iata","#loc +airport +code +local","#meta +url +airport","#meta +url +wikipedia","#meta +keywords","#meta +score","#date +updated"
+2975,FQMA,large_airport,"Maputo Airport",-25.920799,32.572601,145,AF,Mozambique,MZ,"Maputo (city)",MZ-MPM,MPM,Maputo,1,FQMA,FQMA,MPM,,,https://en.wikipedia.org/wiki/Maputo_International_Airport,,1050,2019-01-13T13:37:44+00:00
+2980,FQNP,large_airport,"Nampula Airport",-15.1056,39.281799,1444,AF,Mozambique,MZ,"Nampula Province",MZ-N,N,Nampula,1,FQNP,FQNP,APL,,,https://en.wikipedia.org/wiki/Nampula_Airport,,1000,2026-02-11T14:24:51+00:00
+2970,FQBR,large_airport,"Beira International Airport",-19.7964,34.9076,33,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Beira,1,FQBR,FQBR,BEW,,,https://en.wikipedia.org/wiki/Beira_Airport,,1000,2025-12-23T22:02:58+00:00
+2981,FQPB,medium_airport,"Pemba Airport",-12.993302,40.524867,331,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Pemba,1,FQPB,FQPB,POL,,,https://en.wikipedia.org/wiki/Pemba_Airport,"Porto Amelia",750,2025-03-17T10:38:04+00:00
+2986,FQVL,medium_airport,"Vilankulo Airport",-22.018400192260742,35.31330108642578,46,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,Vilanculo,1,FQVL,FQVL,VNX,,,https://en.wikipedia.org/wiki/Vilankulo_Airport,"Vilanculos Airport",750,2009-07-08T22:08:31+00:00
+2984,FQTT,large_airport,"Tete Airport",-16.104799,33.640202,525,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Tete,1,FQTT,FQTT,TET,,,https://en.wikipedia.org/wiki/Chingozi_Airport,"Chingozi Airport, Matundo Airport",1000,2026-02-11T14:23:01+00:00
+2972,FQIN,medium_airport,"Inhambane Airport",-23.8764,35.408501,30,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,Inhambane,1,FQIN,FQIN,INH,,,https://en.wikipedia.org/wiki/Inhambane_Airport,,750,2021-01-26T23:25:36+00:00
+2971,FQCH,medium_airport,"Chimoio Airport",-19.15130043029785,33.42900085449219,2287,AF,Mozambique,MZ,"Manica Province",MZ-B,B,Chimoio,1,FQCH,FQCH,VPY,,,https://en.wikipedia.org/wiki/Chimoio_Airport,,750,2009-07-08T17:04:51+00:00
+2982,FQQL,medium_airport,"Quelimane Airport",-17.855499267578125,36.86909866333008,36,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,Quelimane,1,FQQL,FQQL,UEL,,,https://en.wikipedia.org/wiki/Quelimane_Airport,,750,2009-07-08T22:00:58+00:00
+27302,IBL,medium_airport,"Indigo Bay Lodge Airport",-21.708,35.452801,20,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,"Bazaruto Island",0,,,IBL,,,https://en.wikipedia.org/wiki/Indigo_Bay_Lodge_Airport,,250,2016-06-02T08:26:25+00:00
+2973,FQLC,medium_airport,"Lichinga Airport",-13.274,35.2663,4505,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Lichinga,1,FQLC,FQLC,VXC,,,https://en.wikipedia.org/wiki/Lichinga_Airport,,750,2018-02-16T11:19:24+00:00
+27301,BCW,medium_airport,"Benguera Island Airport",-21.8533,35.438301,,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,"Benguera Island",0,,,BCW,,,https://en.wikipedia.org/wiki/Benguera_Island_Airport,,500,2024-01-25T01:33:56+00:00
+2977,FQMP,medium_airport,"Mocímboa da Praia Airport",-11.3618,40.3549,89,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,"Mocímboa da Praia",0,FQMP,FQMP,MZB,,,https://en.wikipedia.org/wiki/Moc%C3%ADmboa_da_Praia_Airport,,250,2024-05-20T13:24:20+00:00
+2976,FQMD,medium_airport,"Mueda Airport",-11.6729,39.563099,2789,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Mueda,0,FQMD,FQMD,MUD,,,https://en.wikipedia.org/wiki/Mueda_Airport,,250,2024-05-16T19:44:22+00:00
+29706,FQBI,small_airport,"Bilene Airport",-25.265985,33.238598,118,AF,Mozambique,MZ,"Gaza Province",MZ-G,G,Bilene,0,FQBI,FQBI,,,,https://en.wikipedia.org/wiki/Bilene_Airport,,50,2025-06-07T12:49:34+00:00
+29974,FQIA,small_airport,"Inhaca Airport",-25.9971446991,32.929351806599996,10,AF,Mozambique,MZ,"Maputo Province",MZ-L,L,Inhaca,0,FQIA,FQIA,IHC,,,https://en.wikipedia.org/wiki/Inhaca_Airport,,50,2012-03-18T12:07:32+00:00
+2974,FQLU,small_airport,"Lumbo Airport",-15.0331,40.6717,33,AF,Mozambique,MZ,"Nampula Province",MZ-N,N,Lumbo,0,FQLU,FQLU,LFB,,,https://en.wikipedia.org/wiki/Lumbo_Airport,,50,2024-05-16T19:44:06+00:00
+2978,FQMR,small_airport,"Marrupa Airport",-13.2251,37.552101,2480,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Marrupa,0,FQMR,FQMR,,,,https://en.wikipedia.org/wiki/Marrupa_Airport,,50,2025-06-07T12:51:04+00:00
+27304,MZ-0005,small_airport,"Paradise Island Airport",-21.614999771118,35.338001251221,30,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,"Santa Carolina",0,,,NTC,,,,"Santa Carolina Airport",50,2015-12-22T06:07:18+00:00
+2979,FQNC,medium_airport,"Nacala International Airport",-14.4882,40.7122,410,AF,Mozambique,MZ,"Nampula Province",MZ-N,N,Nacala,1,FQNC,FQNC,MNC,,,https://en.wikipedia.org/wiki/Nacala_Airport,,500,2026-02-11T16:29:33+00:00
+27300,BZB,medium_airport,"Bazaruto Island Airport",-21.5411,35.4729,,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,"Bazaruto Island",0,,,BZB,,,https://en.wikipedia.org/wiki/Bazaruto_Island_Airport,,250,2016-06-01T06:37:01+00:00
+32579,FQXA,small_airport,"Xai-Xai Chongoene Airport",-24.892909,33.753024,291,AF,Mozambique,MZ,"Gaza Province",MZ-G,G,Xai-Xai,1,FQXA,FQXA,VJB,,,https://en.wikipedia.org/wiki/Xai-Xai_Chongoene_Airport,,100,2025-09-19T17:54:36+00:00
+301755,AME,small_airport,"Alto Molocue Airport",-15.6102777778,37.6813888889,1950,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,"Alto Molocue",0,,,AME,,,,,50,2012-06-17T14:25:53+00:00
+29661,FQAG,small_airport,"Angoche Airport",-16.18187,39.945217,121,AF,Mozambique,MZ,"Nampula Province",MZ-N,N,Angoche,0,FQAG,FQAG,ANO,,,https://en.wikipedia.org/wiki/Angoche_Airport,,50,2024-04-07T06:13:26+00:00
+311902,CMZ,small_airport,"Caia Airport",-17.8331,35.3341,156,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Caia,0,,,CMZ,,,,,50,2022-01-20T02:00:09+00:00
+319257,MZ-0040,small_airport,"Catandica Airport",-18.136596,33.202238,,AF,Mozambique,MZ,"Manica Province",MZ-B,B,Catandica,0,,,,,,,,50,2016-06-29T08:35:48+00:00
+311991,INE,small_airport,"Chinde Airport",-18.59,36.4489,22,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,Chinde,0,,,INE,,,,,50,2022-01-20T01:56:25+00:00
+318964,MZ-0033,small_airport,"Chiure Airport",-13.407165,39.803192,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Chiure,0,,,,,,,,50,2016-06-20T10:16:33+00:00
+29811,FQCB,small_airport,"Cuamba Airport",-14.815,36.529999,1919,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Cuamba,0,FQCB,FQCB,FXO,,,https://en.wikipedia.org/wiki/Cuamba_Airport,,50,2016-06-08T09:03:22+00:00
+318963,MZ-0032,small_airport,"Gile Airport",-16.163767,38.360793,,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,Gile,0,,,,,,,,50,2016-06-20T10:11:58+00:00
+326991,MZ-0045,small_airport,"Inhassoro Airstrip",-21.547634,35.119673,112,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,Inhassoro,0,,,,,,,,50,2018-04-08T11:02:55+00:00
+318982,MZ-0034,small_airport,"Macomia Airport",-12.271035,40.110719,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Macomia,0,,,,,,,,50,2016-06-22T02:47:41+00:00
+27303,MZ-0004,closed,"Magaruque Airport",-21.9672451019,35.4247283936,20,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,"Magaruque Island",0,,,,,,,"MFW, MFW",50,2012-03-31T13:42:13+00:00
+314540,RRM,small_airport,"Marromeu Airport",-18.319259,35.949501,39,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Marromeu,0,,,RRM,,,,,50,2022-01-20T01:57:17+00:00
+318848,MZ-0008,small_airport,"Massinga Airport",-23.345136,35.339172,,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,Massinga,0,,,,,,,,50,2016-06-17T06:29:38+00:00
+319011,MZ-0038,small_airport,"Mecanhelas Airport",-15.202762,35.870151,,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Mecanhelas,0,,,,,,,,50,2016-06-22T06:04:17+00:00
+318983,MZ-0035,small_airport,"Meluco Airport",-12.525447,39.654529,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Meluco,0,,,,,,,,50,2016-06-22T02:49:20+00:00
+318962,MZ-0031,small_airport,"Milange Airport",-16.124602,35.734548,,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,Milange,0,,,,,,,,50,2016-06-20T10:08:00+00:00
+31963,MTU,small_airport,"Montepuez Airport",-13.121899604797363,39.052799224853516,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Montepuez,0,,,MTU,,,,,50,2009-07-08T21:41:08+00:00
+2983,FQSG,small_airport,"Songo Airport",-15.6027,32.773201,2904,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Songo,0,FQSG,FQSG,,,,https://en.wikipedia.org/wiki/Songo_Airport,,50,2025-06-07T12:52:09+00:00
+2985,FQUG,small_airport,"Ulongwe Airport",-14.7046,34.352402,4265,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Ulongwe,0,FQUG,FQUG,,,,https://en.wikipedia.org/wiki/Ulongwe_Airport,,50,2025-06-07T12:53:03+00:00
+318382,MZ-0001,small_airport,"Mbatamila Airport",-12.169599,37.54545,,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,,0,,,,,,,,50,2016-06-08T09:08:32+00:00
+318957,MZ-0027,small_airport,"Blanguete Airport",-15.684819,30.610828,,AF,Mozambique,MZ,"Tete Province",MZ-T,T,,0,,,,,,,,50,2016-06-20T09:54:05+00:00
+328330,MZ-0047,small_airport,"Vamizi Airstrip",-11.030273,40.612378,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,"Cabo Delgado",0,,,,,,,,50,2018-06-11T13:00:55+00:00
+321447,MZ-0043,small_airport,"Chemba Airport",-17.167836,34.882624,,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Chemba,0,,,,,,,,50,2022-01-20T02:00:29+00:00
+318948,MZ-0019,small_airport,"Québese Airport",-20.630937,34.066019,,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Chibabava,0,,,,,,,,50,2021-02-23T20:27:35+00:00
+32441,MZ-TGS,small_airport,"Chokwé Airport",-24.520599365234375,32.965301513671875,,AF,Mozambique,MZ,"Gaza Province",MZ-G,G,Chokwé,0,,,TGS,,,,,50,2008-12-30T09:25:34+00:00
+351658,MZ-0059,small_airport,"Emboqui Airport",-15.60454,32.41439,1240,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Emboqui,0,,,,,,,,50,2022-01-20T02:03:47+00:00
+318952,MZ-0023,small_airport,"Espungabera Airport",-20.438769,32.774927,,AF,Mozambique,MZ,"Manica Province",MZ-B,B,Espungabera,0,,,,,,,,50,2016-06-20T09:28:50+00:00
+318961,MZ-0030,small_airport,"Fingoe Airport",-15.172786,31.906405,,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Fingoe,0,,,,,,,,50,2016-06-20T10:02:39+00:00
+31203,FQFU,small_airport,"Furancungo Airport",-14.918600082397461,33.628299713134766,,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Furancungo,0,FQFU,,,,,,,50,2008-12-30T09:25:55+00:00
+318951,MZ-0022,small_airport,"Tondo Lodge Airstrip",-21.425639,33.865274,,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,Gueligue,0,,,,,,,,50,2021-02-23T20:27:58+00:00
+316948,VJQ,small_airport,"Gurue Airport",-15.5062,36.9904,2248,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,Gurue,0,,,VJQ,,,,,50,2016-02-07T17:14:15+00:00
+318849,MZ-0009,small_airport,"Homoine Airport",-23.866113,35.136698,,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,Homoine,0,,,,,,,,50,2016-06-17T06:31:15+00:00
+318852,FQIB,small_airport,"Ibo Airport",-12.350174,40.602297,27,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Ibo,0,FQIB,FQIB,IBO,,,,,50,2016-07-09T20:10:21+00:00
+311990,IMG,small_airport,"Inhaminga Airport",-18.41,35.0045,1072,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Inhaminga,0,,,IMG,,,,,50,2014-05-24T12:18:25+00:00
+340241,MZ-0051,small_airport,"Kenmare Moma Airport",-16.55068,39.62062,,AF,Mozambique,MZ,"Nampula Province",MZ-N,N,Larde,0,,,,,,,,50,2021-01-26T23:03:32+00:00
+313853,LBM,small_airport,"Luabo Airport",-18.4139,36.1068,36,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,Luabo,0,,,LBM,,,,,50,2022-01-20T01:56:07+00:00
+318850,MZ-0010,small_airport,"Mabote Airport",-22.044039,34.158814,,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,Mabote,0,,,,,,,,50,2016-06-17T06:33:55+00:00
+318383,MZ-0002,small_airport,"Macalonge Airport",-12.499796,35.428228,,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Macalonge,0,,,,,,,,50,2016-06-08T09:11:24+00:00
+318947,MZ-0018,small_airport,"Buffalo Camp Airstrip",-20.913318,34.283153,,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Machanga,0,,,,,,,,50,2021-02-23T20:27:14+00:00
+318949,MZ-0020,small_airport,"Machasi Airport",-20.823041,33.378488,,AF,Mozambique,MZ,"Manica Province",MZ-B,B,Machasi,0,,,,,,,,50,2016-06-20T09:06:53+00:00
+319010,MZ-0037,small_airport,"Macossa Airport",-17.86764,33.915103,,AF,Mozambique,MZ,"Manica Province",MZ-B,B,Macossa,0,,,,,,,,50,2016-06-22T06:00:41+00:00
+318955,MZ-0025,small_airport,"Mafambisse Airport",-19.575645,34.633552,,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Mafambisse,0,,,,,,,,50,2016-06-20T09:34:24+00:00
+314043,MJS,small_airport,"Maganja da Costa Airport",-17.3087,37.5,215,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,Maganja,0,,,MJS,,,,Olinga,50,2015-03-15T01:29:24+00:00
+318956,MZ-0026,small_airport,"Mague Airport",-15.810219,31.741015,,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Mague,0,,,,,,,,50,2022-01-20T02:04:06+00:00
+318989,MZ-0036,small_airport,"Malvernia Airport",-22.088361,31.693199,,AF,Mozambique,MZ,"Gaza Province",MZ-G,G,Malvernia,0,,,,,,,,50,2016-06-22T04:04:42+00:00
+595523,MZ-0061,small_airport,"Mandimba Airport",-14.33943,35.663,2549,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Mandimba,0,,,,,,,,50,2025-03-21T00:09:39+00:00
+318950,MZ-0021,small_airport,"Massangena Airport",-21.587678,32.929183,,AF,Mozambique,MZ,"Gaza Province",MZ-G,G,Massangena,0,,,,,,,,50,2016-06-20T09:09:57+00:00
+323203,MZ-0044,small_airport,"Massingir Airport",-23.939579,32.153803,,AF,Mozambique,MZ,"Gaza Province",MZ-G,G,Massingir,0,,,,,,,,50,2017-05-13T19:51:26+00:00
+318853,MZ-0013,small_airport,"Matemo Airport",-12.201529,40.569915,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Matemo,0,,,,,,,,50,2016-06-17T06:47:12+00:00
+340245,MZ-0054,small_airport,"Machangulo Airport",-26.20306,32.93819,,AF,Mozambique,MZ,"Maputo Province",MZ-L,L,Matutuine,0,,,,,,,,50,2021-01-26T23:36:16+00:00
+318856,MZ-0016,small_airport,"Mbamba Airport",-12.140706,38.318613,,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Mbamba,0,,,,,,,,50,2016-06-17T06:55:33+00:00
+318857,MZ-0017,small_airport,"Lugenda Wilderness Camp Airstrip",-12.288658,37.818062,976,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Mbamba,0,,,,,,,,50,2018-12-11T14:53:39+00:00
+318854,MZ-0014,small_airport,"Medjumbe Airport",-11.817449,40.602972,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Medjumbe,0,,,,,,,,50,2022-06-15T00:19:33+00:00
+318384,MZ-0003,small_airport,"Metangula Airport",-12.701334,34.803468,1650,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Metangula,0,,,,,,,,50,2016-06-08T09:13:45+00:00
+321446,MZ-0042,small_airport,"Mopeia Airport",-17.977031,35.705003,,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,Mopeia,0,,,,,,,,50,2022-01-05T10:13:55+00:00
+319238,MZ-0039,small_airport,"Mucumbura Airport",-16.187755,31.686824,,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Mucumbura,0,,,,,,,,50,2016-06-29T05:11:34+00:00
+318851,MZ-0011,small_airport,"Baixo Pinda Airport",-14.210912,40.696848,,AF,Mozambique,MZ,"Nampula Province",MZ-N,N,Nanatha,0,,,,,,,,50,2016-06-17T06:39:39+00:00
+316556,NND,small_airport,"Nangade Airport",-11.073,39.68,825,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Nangade,0,,,NND,,,,,50,2015-12-19T14:04:57+00:00
+308663,LMZ,small_airport,"Palma Airport",-10.7506,40.4702,177,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Palma,0,,,LMZ,,,,,50,2013-05-15T01:35:11+00:00
+340238,MZ-0048,small_airport,"Afungi Airport",-10.84903,40.50541,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Palma,0,,,,,,,,50,2021-01-26T22:38:44+00:00
+340242,PEB,small_airport,"Pebane Airport",-17.27276,38.18073,,AF,Mozambique,MZ,"Zambezia Province",MZ-Q,Q,Pebane,0,,,PEB,,,,,50,2021-01-26T23:10:09+00:00
+340243,MZ-0052,small_airport,"Pomene Airstrip",-22.94259,35.57047,,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,Pomene,0,,,,,,,,50,2021-01-26T23:22:24+00:00
+30279,FQPO,small_airport,"Ponta do Ouro Airport",-26.826913,32.838444,92,AF,Mozambique,MZ,"Maputo Province",MZ-L,L,"Ponta do Ouro",0,FQPO,FQPO,PDD,,,https://en.wikipedia.org/wiki/Ponta_do_Ouro_Airport,,50,2021-01-26T23:41:52+00:00
+326992,MZ-0046,small_airport,"Quirimba Airstrip",-12.429533,40.614222,39,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,"Quirimba Island",0,,,,,,,,50,2018-04-08T11:38:18+00:00
+318847,MZ-0007,small_airport,"Quissico Airport",-24.70554,34.732691,,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,Quissico,0,,,,,,,,50,2016-06-17T06:27:42+00:00
+318954,MZ-0024,small_airport,"Sussundenga Airport",-19.408009,33.28094,,AF,Mozambique,MZ,"Manica Province",MZ-B,B,Sussundenga,0,,,,,,,,50,2016-06-20T09:32:24+00:00
+321445,MZ-0041,small_airport,"Vale Chassapa Airport",-18.394034,35.599975,,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,"Vale Chassapa",0,,,,,,,,50,2016-12-09T13:43:08+00:00
+4955,FQ49,small_airport,"Vila Franca do Save Airport",-21.164499282836914,34.560699462890625,98,AF,Mozambique,MZ,"Inhambane Province",MZ-I,I,"Vila Franca do Save",0,FQ49,,,FQ49,,,,50,2009-07-08T22:08:40+00:00
+340244,MZ-0053,small_airport,"Zongoene Airport",-25.19949,33.50123,,AF,Mozambique,MZ,"Gaza Province",MZ-G,G,Xai-Xai,0,,,,,,,,50,2021-01-26T23:28:31+00:00
+318846,MZ-0006,small_airport,"Xinavane Airport",-25.031328,32.748115,,AF,Mozambique,MZ,"Maputo Province",MZ-L,L,Xinavane,0,,,,,,,,50,2016-06-17T06:12:16+00:00
+318960,MZ-0029,small_airport,"Zambue Airport",-15.132704,30.802094,,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Zambue,0,,,,,,,,50,2016-06-20T10:00:22+00:00
+318958,MZ-0028,small_airport,"Zumbo Airport",-15.612746,30.421241,,AF,Mozambique,MZ,"Tete Province",MZ-T,T,Zumbo,0,,,,,,,,50,2022-01-20T02:05:49+00:00
+351656,MZ-0057,closed,"Chupanga Airport",-18.0336,35.61152,123,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Chupanga,0,,,,,,,,0,2022-01-20T01:59:31+00:00
+351655,MZ-0056,closed,"Former Marromeu Airport",-18.29363,35.93434,43,AF,Mozambique,MZ,"Sofala Province",MZ-S,S,Marromeu,0,,,,,,,RRM,0,2022-01-20T01:58:17+00:00
+342732,MZ-0055,closed,"Moma Airport",-16.74466,39.21883,20,AF,Mozambique,MZ,"Nampula Province",MZ-N,N,Moma,0,,,,,,,"MMW, MMW",0,2021-04-08T11:38:28+00:00
+595493,MZ-0060,closed,"Nairrubi Airstrip",-13.4929,36.0764,2247,AF,Mozambique,MZ,"Niassa Province",MZ-A,A,Nairrubi,0,,,,,,,,0,2025-03-20T07:44:35+00:00
+340240,MZ-0050,closed,"Quinga Airstrip",-15.84374,40.23132,,AF,Mozambique,MZ,"Nampula Province",MZ-N,N,Quinga,0,,,,,,,,0,2021-01-26T22:55:23+00:00
+340239,MZ-0049,closed,"Quiterajo Airstrip",-11.75407,40.42514,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Quiterajo,0,,,,,,,,0,2021-01-26T22:43:31+00:00
+351657,MZ-0058,closed,"Tambara Airport",-16.73837,34.23129,486,AF,Mozambique,MZ,"Manica Province",MZ-B,B,Tambara,0,,,,,,,,0,2022-01-20T02:01:48+00:00
+318855,MZ-0015,closed,"Tecomaji Airport",-10.776306,40.643912,,AF,Mozambique,MZ,"Cabo Delgado Province",MZ-P,P,Tecomaji,0,,,,,,,,0,2016-06-17T06:50:38+00:00
