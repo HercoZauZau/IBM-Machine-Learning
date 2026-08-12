@@ -17,7 +17,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 * [x] **Projecto #1** - Análise Exploratória de Dados
 * [x] **Projecto #2** - Machine Learning Supervisionado (Regressão)
 * [x] **Projecto #3** - Machine Learning Supervisionado (Classificação)
-* [ ] **Projecto #4** - Machine Learning Não Supervisionado
+* [x] **Projecto #4** - Machine Learning Não Supervisionado
 * [ ] **Projecto #5** - Deep Learning e Aprendizado por Reforço
 * [x] **Projecto #6** - Sistemas de Recomendação
 
@@ -26,7 +26,7 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 * [ ] **Artigo #1** - Impacto da Variação dos Preços dos Combustíveis no Preço de Alimentos em Moçambique
 * [ ] **Artigo #2** - Análise de Mudanças no Regime Climático Distrital em Moçambique
 * [ ] **Artigo #3** - Classificação Automática de Notícias Moçambicanas
-* [ ] **Artigo #4** - *por definir*
+* [ ] **Artigo #4** - Análise e Segmentação da Qualidade de Vida Distrital em Moçambique
 * [ ] **Artigo #5** - *por definir*
 * [ ] **Artigo #6** - Sistema de Recomendação de Imóveis para a Cidade de Maputo
 
@@ -105,6 +105,36 @@ Os projectos abrangem diferentes problemas de investigação, incluindo análise
 * A representação textual baseada em **TF-IDF** mostrou-se eficaz na captura dos termos mais relevantes para distinguir diferentes categorias de notícias.
 
 </br>
+
+### #4 - Segmentação da Qualidade de Vida Distrital em Moçambique 🏘️ 📊
+
+**Objectivos:**
+
+* Segmentar os distritos de Moçambique com base em indicadores multidimensionais de qualidade de vida.
+* Identificar grupos de distritos com características socioeconómicas, de saúde, educação, acesso a serviços e vulnerabilidade semelhantes.
+* Determinar o número adequado de clusters e caracterizar os principais perfis encontrados.
+* Produzir uma classificação relativa da qualidade de vida distrital.
+
+**Técnicas Utilizadas:**
+
+* Recolha, limpeza, transformação e integração de dados distritais.
+* Codificação de variáveis categóricas ordinais.
+* Análise Exploratória de Dados (EDA).
+* Análise de correlação e redundância entre indicadores.
+* Padronização de variáveis.
+* Redução de dimensionalidade utilizando **PCA (Principal Component Analysis)**.
+* Determinação do número de clusters utilizando **Elbow Method**, **Silhouette Score**, **Davies-Bouldin Index** e **Calinski-Harabasz Index**.
+* Segmentação utilizando **K-Means Clustering**.
+* Avaliação da estabilidade dos clusters através do **Adjusted Rand Index (ARI)**.
+* Análise e caracterização dos perfis de cada cluster.
+
+**Conclusão:**
+
+* O modelo identificou **quatro grupos principais de distritos**, representando diferentes perfis relativos de qualidade de vida.
+* Os clusters apresentam diferenças nos indicadores de saúde, educação, rendimento, acesso a água e serviços, segurança e vulnerabilidade a choques.
+* A análise revelou uma forte componente territorial nos padrões identificados, demonstrando que as condições de qualidade de vida variam significativamente entre diferentes regiões do país.
+
+<br/>
 
 ### #6 - Sistema de Recomendação de Imóveis para a Cidade de Maputo 🏠 📍
 
